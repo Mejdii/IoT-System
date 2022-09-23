@@ -1,0 +1,19 @@
+{
+  "name": "labforward",
+  "version": "1.0.0",
+  "description": "min-coneector and devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "broker",
+    "devices"
+  ],
+  "author": "Majdi",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.48.0",
+    "mosca": "^2.8.3"
+  }
+}
