@@ -41,7 +41,7 @@ Go to the project folder and run these commands.
 ## My Feedback
 I want to thank you for giving me the opportunity to work on such an awesome challenge. In fact, this is my first time that I developed a node.js app for connecting IoT devices, I used to use Python and cloud platforms/services when I work on IoT projects but I use JS when I program rule chain' nodes. I also use embedded C language when it comes to connect sensors to gateways.
 
-Actually, I found node.js such a nice environment for connecting devices as it has a plenty of modules. I personally don't have any problem in learning and practicing any programming language. Indeed, a couple of months ago at Huawei, I learned to write scripts with a programming language that I've never heard about which is MML language :)
+Actually, I found node.js such a nice environment for connecting IoT devices as it has a plenty of modules. I am willing to take some trainings to improve my JS programming skills. In fact, I personally don't have any problem in learning and practicing any programming language. Indeed, a couple of months ago at Huawei, I learned to write scripts with a programming language that I've never heard about which is MML language :)
 
 
 ## Timing:
