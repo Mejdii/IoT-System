@@ -6,6 +6,6 @@ var message = 'Hello World!'
 client.on('connect', ()=>{
     setInterval(()=>{
         client.publish(topic, message)
-        console.log('Message sent!', message)
+        console.log(message)
     }, 5000)
 })
